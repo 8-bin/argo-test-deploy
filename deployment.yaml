@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: con-sb
-        image: 8bin/simple_sb:5
+        image: 8bin/simple_sb:14
